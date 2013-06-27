@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main(              )
 {
  char ch[6];
  int power;

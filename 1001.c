@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-int main( )
+/*test main*/
+int main(              )
 {
  char ch[6];
  int power;

@@ -29,8 +29,6 @@ Dijkstra
 源点可达的话，O（V*lgV+E*lgV）=>O（E*lgV）。
       当是稀疏图的情况时，此时E=V*V/lgV，所以算法的时间复杂度可为O（V^2） 。若是斐波那契堆作优先队列的话，算法时间复杂度，则为O（V*lgV + E）。
 
-      更多，请参考：二（续）、彻底理解Dijkstra算法，及二（再续）、Dijkstra 算法+fibonacci堆的逐步c实现。
-
  
 
 Bellman-Ford
